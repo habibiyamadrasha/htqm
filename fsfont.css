@@ -1,0 +1,24 @@
+BODY {
+	COLOR: #000000; FONT-FAMILY: default; FONT-SIZE: 10pt
+}
+TD {
+	COLOR: #000000; FONT-FAMILY: default; FONT-SIZE: 10pt
+}
+H1 {
+	COLOR: black; FONT-FAMILY: default; FONT-SIZE: 12pt; FONT-STYLE: italic; FONT-WEIGHT: bold
+}
+H2 {
+	COLOR: black; FONT-FAMILY: default; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+H3 {
+	COLOR: black; FONT-FAMILY: default; FONT-SIZE: 10pt; FONT-STYLE: italic
+}
+.skin0 {
+	BACKGROUND-COLOR: #f0f0f0; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; COLOR: #000000; CURSOR: default; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; POSITION: absolute; TEXT-ALIGN: left; VISIBILITY: hidden; WIDTH: 290px
+}
+A:hover {
+	BACKGROUND-COLOR: #bbeeff; COLOR: #000080
+}
+.BOX {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 10pt; HEIGHT: 80px; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 2px; POSITION: absolute; RIGHT: 20px; TOP: 20px; VISIBILITY: visible; WIDTH: 200px; Z-INDEX: 1
+}
