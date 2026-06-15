@@ -1,0 +1,99 @@
+BODY {
+	MARGIN-TOP: 2px; FONT-SIZE: 12pt
+}
+TABLE {
+	FONT-SIZE: 10pt
+}
+A:link {
+	FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 10pt; COLOR: #663366; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 10pt; COLOR: #87ceeb; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A.Menu:link {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.Menu:visited {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.Menu:active {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.atoc:link {
+	FONT-SIZE: 10pt; COLOR: #663399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.atoc:visited {
+	FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.atoc:hover {
+	FONT-SIZE: 10pt; COLOR: #4169e1; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.atoc:active {
+	TEXT-DECORATION: none
+}
+A.Nav:hover {
+	FONT-SIZE: 10pt; COLOR: #87ceeb; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A.Nav:visited {
+	FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.Nav:link {
+	FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.Font14pt {
+	FONT-SIZE: 20pt; FONT-FAMILY: Arial
+}
+.Font12pt {
+	FONT-SIZE: 11pt; FONT-FAMILY: Arial
+}
+.Font10pt {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+.pos1 {
+	MARGIN-LEFT: 3px
+}
+H1 {
+	
+}
+.stoc {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.table {
+	BORDER-RIGHT: #c0dcc0 1px double; BACKGROUND-POSITION: center 50%; BORDER-TOP: #c0dcc0 1px double; FONT-SIZE: 11px; BORDER-LEFT: #c0dcc0 1px double; COLOR: #000000; BORDER-BOTTOM: #c0dcc0 1px double; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f1f8f1
+}
+H1 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H4 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H5 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H6 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.subnav {
+	BORDER-RIGHT: #c0dcc0 1px double; PADDING-RIGHT: 10px; BACKGROUND-POSITION: center 50%; BORDER-TOP: #c0dcc0 1px double; FONT-SIZE: 9px; BORDER-LEFT: #c0dcc0 1px double; COLOR: #000000; BORDER-BOTTOM: #c0dcc0 1px double; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fffbf0
+}
+P {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.tablehead {
+	FONT-SIZE: 12px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
